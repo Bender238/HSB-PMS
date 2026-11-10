@@ -1,0 +1,38 @@
+PMS HOTEL - APLICACIÓN SIN INTERNET
+===================================
+
+QUÉ ES
+Programa de recepción para el hotel: 26 habitaciones, check-in, consumos, pagos,
+parqueadero, check-out, tipos de habitación y precios. Funciona sin internet.
+Los datos se guardan dentro del propio dispositivo (computador o celular).
+
+
+OPCIÓN 1: EN UN COMPUTADOR, SIN INSTALAR NADA
+1. Descomprime esta carpeta en un lugar fijo (por ejemplo, Documentos).
+2. Haz doble clic en "index.html". Se abre en el navegador (mejor Chrome o Edge).
+3. Funciona sin internet. Crea un acceso directo o marcador para abrirlo rápido.
+Importante: no muevas la carpeta y usa siempre el mismo navegador.
+
+
+OPCIÓN 2: COMO APLICACIÓN INSTALADA (COMPUTADOR Y CELULAR)
+Para instalarla como una app con su propio icono, la carpeta debe estar publicada
+en internet con dirección https (por ejemplo en Netlify, GitHub Pages o
+Cloudflare Pages, que tienen planes gratuitos). Una vez publicada:
+1. Abre la dirección una vez con internet en el dispositivo.
+2. Instálala:
+   - Computador (Chrome o Edge): icono "Instalar" en la barra de direcciones.
+   - Android (Chrome): menú de tres puntos > "Instalar aplicación".
+   - iPhone (Safari): botón Compartir > "Añadir a pantalla de inicio".
+3. Desde ese momento funciona sin internet.
+
+
+CÓMO PROTEGER LOS DATOS
+- Cada dispositivo guarda SUS PROPIOS datos. Los datos NO se sincronizan entre
+  dispositivos: lo que registres en un computador no aparece en otro.
+- Descarga una copia de seguridad con el botón "Copia de seguridad" (como
+  mínimo una vez por semana) y guárdala en una memoria USB, en tu correo o en
+  Google Drive. El programa te lo recuerda.
+- Para recuperar los datos (por ejemplo en otro computador o si se borran):
+  botón "Copia de seguridad" > elige el archivo > "Restaurar esta copia".
+- No uses el modo incógnito. No borres los "datos de sitios" ni las cookies del
+  navegador, porque ahí se guardan los datos del hotel.
